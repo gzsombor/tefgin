@@ -20,6 +20,7 @@
     </prerequisites>
 
   <modules>
+    <module>jsonized</module>
     <module>json</module>
     <module>common</module>
     <module>tefclient</module>
